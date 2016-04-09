@@ -1,4 +1,6 @@
 // http://www.cnblogs.com/mengdd/archive/2012/08/01/2619043.html
+// http://www.faceplusplus.com.cn/demo-search/  ??–Ê•”ã¤â‹
+
 
 CvSeq* cvHaarDetectObjects( 
 const CvArr* image, 
